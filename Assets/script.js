@@ -49,5 +49,13 @@ function initPage() {
         currentUVEl.append(UVIndex);
     });
 
+//  Using saved city name, execute a 5-day forecast get request from open weather map api
+let cityID = response.data.id;
+let forecastQueryURL = "https://api.openweathermap.org/data/2.5/forecast?id=" + cityID + "&appid=" + APIKey;
+axios.get(forecastQueryURL)
+.then(function(response){
+
+
+
 
                 

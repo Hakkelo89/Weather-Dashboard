@@ -6,7 +6,7 @@ Click [here](https://hakkelo89.github.io/Weather-Dashboard/) to view project on 
 
 # Project Description
 
-![Screenshot of weather dashboard](./Assets/Screen%20Captures/screencapture-127-0-0-1-5500-homeworks-Weather-Dashboard-index-html-2021-04-07-21_40_42.png)
+![Screenshot of weather dashboard](./assets/Screen%20Captures/screencapture-127-0-0-1-5500-homeworks-Weather-Dashboard-index-html-2021-04-07-21_40_42.png)
 
 In this app, the user enters the name of a city (either just the city name, or "city, state") in the search field, then clicks the search button. The app will display the current weather conditions in that city, including temperature, humidity, UV index, and a picture representing whether it is clear, cloudy, raining, etc. Additionally, a 5-day forecast for that city is displayed below the current conditions showing similar information (predicted at 12:00 PM on each day).
 
